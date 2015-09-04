@@ -1,0 +1,22 @@
+Zuweisung:
+
+	variablen_name="Dies ist ein strang"
+	#eine zuweiseung macht man mit den '='' zeigen
+	#Variablentyp (String, Integer, Time,...) erfolgt über die Eingabe
+
+
+	Zeichenkette (String)
+
+		#Ein String wird erzeugt, in dem eine beliebige Anzahl von Zeichen (Zahlen, Buchstaben) innerhalb von Anführungszeichen ("" oder '')
+
+Zusammengestztezeichenkett
+
+Tag = "Freitag"
+str = " Heute ist" + tag
+	#das + zeichen verbindet 2 strings
+
+		Ganze Zahl (Integer, Fixnum)
+			zahl = 15
+
+			Float (kommazahl)
+				komma_zahl = 11.99

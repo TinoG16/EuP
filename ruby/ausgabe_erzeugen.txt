@@ -1,0 +1,21 @@
+Soll auf der Konsole eine Ausgabe erzeigt werden, geschieht das über den Befehl puts 
+<String>
+
+puts "irgendwas" #Ausgabe eines Strings
+puts variablenname #Ausgabe einer Variablen in der ein String ist
+zahl = 15
+üuts zahl.to_s
+
+Zusammengesetzte Ausgabe:
+Ausgaben eines Strings, der sich aus Text und dem Inhalt von Variablen zusammensetzt
+
+	tag = "Freitag"
+	puts "heute ist #{tag}, der  #{Time.new}."
+	#Am Anfang und am Ende müssen doppelte anführunszeichen stehen.,
+	#innerhalb der des Konstruktors #{} kann jeder Ruby-Code ausgeführt werde. Es findet automatisch eine Konvertierung des Ergebnisses in einem string statt.
+
+	Formatieren der Ausgabe:
+		puts "Die Woche besteht aus:\n\tMontag\n\tFreitag.""
+
+		#\n fügt einen Zeilenumbruch hinzu
+		#\t fügt einen Tabulatorschritt hinzu

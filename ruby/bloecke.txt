@@ -1,0 +1,6 @@
+# Ein Befehl solle mehrere male ausgeführt werden.
+
+	3. times da
+	puts "Hurra"
+end	
+#ein block beginnt mit einem "do" und endet mit einem "end", zwischen beiden können beliebig viele befehle stehen.
