@@ -1,6 +1,6 @@
 str ="die woche besteht aus:\n\tMontag\n\tDienstag"   variablen zuweisung mit zeichenkette (steuerzeichen n neue zeile t tab)
 
-puts str
+puts str			#puts gibt was aus
 
 zahl = 15
 puts zahl	#puts konvertiert eine zahl in einem String, besser ist aber eine explizierte Konvertierung 
