@@ -1,4 +1,4 @@
-str ="die woche besteht aus:\n\tMontag\n\tDienstag"
+str ="die woche besteht aus:\n\tMontag\n\tDienstag"   variablen zuweisung mit zeichenkette (steuerzeichen n neue zeile t tab)
 
 puts str
 
