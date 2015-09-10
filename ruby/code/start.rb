@@ -8,7 +8,7 @@ puts zahl	#puts konvertiert eine zahl in einem String, besser ist aber eine expl
 #Zusammengesetzter String:
 puts str + zahl.to_s
 
-puts "#{str} der #{zahl}. im Monat"
+puts "Heute ist#{str} der #{zahl}. im Monat"
 
 3. times do 
 	puts str
