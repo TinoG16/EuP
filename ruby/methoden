@@ -1,0 +1,15 @@
+Methoden:
+
+	DRY - Dont repeat yourself
+	Jeder Befehl oder Codesequenz, die mehr als einmal aufgerufen wird, wird in eine Methode ausgelagert
+
+
+	Definition:
+
+		def methoden_name
+			code...
+			#die Definition beginnt mit dem Schlüsselwort <def> und endet mit dem Schlüsselwort <end>
+
+Aufruf:
+
+	eine Methode wird ausgeführt, wenn der Name 
