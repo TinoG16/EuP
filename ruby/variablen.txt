@@ -20,3 +20,24 @@ str = " Heute ist" + tag
 
 			Float (kommazahl)
 				komma_zahl = 11.99
+
+
+				xxxxxxxvariablen methodenxxxxxxxx
+
+
+Die Programmiersprache RUBY ist streng Klassen/objekt-orientiert.
+Das bedeutet, das eine Variable vom Datentyp INTERGER Ganzzahl ein Objekt der
+Klasse Fixnum ist, bzw. eine Variable vom Datentyp Strin zeichenkette ein Objekt der Klasse String.
+
+var = "Teststring"
+
+var.class
+				die Methode class auf das Objekt var angewendet gibt die Klasse
+				des Objektes aus.
+
+var.reverse			#Methode reverse auf var angewendet	erzeugt eine Ausgabe, 								in der der String umgekehrt angezeigt wird. Der Wert der 									Variablen	ändert sich nicht
+
+var.reverse!		#am ende der Methoder ändert den varuablen wert 
+var.center(30)	#Die Methode center erwARTET MINDESTENS EINEN pARAMETER
+var.reverse.center(40)		#Methoden können kaskadiert werden. Der Wert 															der Variablen var wird ungedreht und 																			anschließend zentriert dargestellt.
+var.empty?		#Die Methode empty? überprüft, ob die variable leer ist. 									Falls ja wird ein true zurückgegeben sonst ein false	
