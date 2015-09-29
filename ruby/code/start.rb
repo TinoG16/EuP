@@ -12,4 +12,5 @@ puts "Heute ist#{str} der #{zahl}. im Monat"
 
 3. times do 
 	puts str
-end	
+end
+kkkkkk
