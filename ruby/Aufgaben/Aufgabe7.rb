@@ -19,7 +19,7 @@ jahreszeiten.join("& ")
 # f. notieren Sie den Befehl
 # g. ermitteln Sie den Befehl mit dem Sie die Positionen der Elemente des Arrays nach einem Zufallsprinzip anordnen koennen
 jahreszeiten.sample(5)
-jahreszeiten.shuffle			#speichert
+jahreszeiten.shuffle			#   !speichert
 
 # h. packen Sie Ihre drei Player aus dem Projekt in ein Array
 player = []
